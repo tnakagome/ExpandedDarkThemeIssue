@@ -41,3 +41,6 @@ OS updates them dynamically.
 
 ## Video
 ![demo video](demo/status-bar-icons.mp4)
+
+## Ticket
+https://issuetracker.google.com/issues/509581472
