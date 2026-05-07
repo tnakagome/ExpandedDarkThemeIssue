@@ -42,5 +42,11 @@ OS updates them dynamically.
 ## Video
 ![demo video](demo/status-bar-icons.mp4)
 
+ First video.
+
+![toggle color](demo/toggle-color.mp4)
+
+ This one demonstrates the issue more clearly. I just kept tapping the screen to change the app background color, then the status bar icon color kept changing as well in landscape mode.
+
 ## Ticket
 https://issuetracker.google.com/issues/509581472
