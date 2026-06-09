@@ -2,7 +2,7 @@
 
 ## Conditions
 - A real Pixel device (doesn't reproduce in emulator)
-- Android 17 including QPR1
+- Android 17 up to QPR3
 - In the Settings app, turn on Dark theme and its Expanded option
 - App's main screen below the status bar is white; it does not occur if the background is black.
 
@@ -39,7 +39,7 @@ White icons after refreshing the status bar by swiping from top then release the
 I have not done anything programmatically in order to change the icon colors. 
 OS updates them dynamically.
 
-## Video
+## Videos
 ![demo video](demo/status-bar-icons.mp4)
 
  First video.
