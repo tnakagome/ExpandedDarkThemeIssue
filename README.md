@@ -2,7 +2,7 @@
 
 ## Conditions
 - A real Pixel device (doesn't reproduce in emulator)
-- Android 17 up to QPR1 Beta4
+- Android 17 up to QPR1 Beta5
 - In the Settings app, turn on Dark theme and its Expanded option
 - App's main screen below the status bar is white; it does not occur if the background is black.
 
